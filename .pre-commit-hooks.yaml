@@ -1,0 +1,6 @@
+- id: poetry-pyright
+  name: poetry-pyright
+  entry: poetry-pyright
+  language: script
+  types: [python]
+  pass_filenames: false
